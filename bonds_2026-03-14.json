@@ -1,0 +1,62 @@
+[
+  {
+    "label": "米国 2年債",
+    "series_id": "DGS2",
+    "date": "2026-03-12",
+    "value": "3.76"
+  },
+  {
+    "label": "米国 5年債",
+    "series_id": "DGS5",
+    "date": "2026-03-12",
+    "value": "3.88"
+  },
+  {
+    "label": "米国 10年債",
+    "series_id": "DGS10",
+    "date": "2026-03-12",
+    "value": "4.27"
+  },
+  {
+    "label": "米国 30年債",
+    "series_id": "DGS30",
+    "date": "2026-03-12",
+    "value": "4.88"
+  },
+  {
+    "label": "日本 10年債",
+    "series_id": "IRLTLT01JPM156N",
+    "date": "2026-01-01",
+    "value": "2.24"
+  },
+  {
+    "label": "ドイツ 10年債",
+    "series_id": "IRLTLT01DEM156N",
+    "date": "2026-01-01",
+    "value": "2.80666666666667"
+  },
+  {
+    "label": "英国 10年債",
+    "series_id": "IRLTLT01GBM156N",
+    "date": "2026-01-01",
+    "value": "4.451"
+  },
+  {
+    "label": "フランス 10年債",
+    "series_id": "IRLTLT01FRM156N",
+    "date": "2026-01-01",
+    "value": "3.53"
+  },
+  {
+    "label": "イタリア 10年債",
+    "series_id": "IRLTLT01ITM156N",
+    "date": "2026-01-01",
+    "value": "3.492"
+  },
+  {
+    "label": "カナダ 10年債",
+    "series_id": "IRLTLT01CAM156N",
+    "date": "2026-01-01",
+    "value": "3.4015"
+  }
+]
